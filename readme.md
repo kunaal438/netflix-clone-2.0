@@ -13,4 +13,6 @@ Netflix Clone, we all use netflix in our day to day life. And if you are just st
 5. Has movie trailers, and recommendations.
 6. Has smooth card slider effect.
 
-You can check out its coding tutorial.
+You can check out its [coding tutorial](https://youtu.be/FoD33gwhu00).
+
+![Thumbnail](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d2db0bvcss75exc5es3d.png)
